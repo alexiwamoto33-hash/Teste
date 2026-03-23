@@ -1,0 +1,5 @@
+{
+  "name": "OmniSolver-AI",
+  "description": "A multi-model AI consultant that aggregates and compares responses from Gemini, GPT, Claude, and Grok.",
+  "requestFramePermissions": []
+}
